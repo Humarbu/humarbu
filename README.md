@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hugo Martín 👋
 
 <!--
-**Humarbu/humarbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Alumne de ASIX a l'Institut de l'Ebre
 
-Here are some ideas to get you started:
+Hola, soc Hugo Martín i actualment estic cursant ASIX al Institut de l'Ebre, anteriorment ja havia cursat SMX a aquest centre.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Twitter: https://twitter.com/hugomaartinn
+
+
+
+
+
+
+
