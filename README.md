@@ -20,6 +20,10 @@
 
 
 
+<img src="https://...thumbs-up.gif">
+
+
+
 
 
 
