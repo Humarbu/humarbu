@@ -18,9 +18,8 @@
 
 <p>Twitter: https://twitter.com/hugomaartinn</p>
 
-
-
-<img src="https://...thumbs-up.gif">
+## Espero que us hagi agradat el meu perfil.
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 
