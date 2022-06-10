@@ -19,7 +19,7 @@ Executant la comanda sudo apt-get install mysql-server instalarem el servidor
 
 ![image](https://user-images.githubusercontent.com/91249713/173056629-0593cd0d-e6ce-47ef-8430-1e4204a2d6e1.png)
 
-Acte seguit, instalem la eïna nmap, en el meu cas ja la tenia instalada. Per a instalar aquesta eïna executarem la comanda sudo apt-get install nmap, posteriorment farem un escaneig dels port que es troben oberts al localhost i com veem el port 3306 que es el del mysql es troba obert.
+- Acte seguit, instalem la eïna nmap, en el meu cas ja la tenia instalada. Per a instalar aquesta eïna executarem la comanda sudo apt-get install nmap, posteriorment farem un escaneig dels port que es troben oberts al localhost i com veem el port 3306 que es el del mysql es troba obert.
 
 ![image](https://user-images.githubusercontent.com/91249713/173059253-6a9ceb88-78bf-49fa-917c-20b2fc8e28dc.png)
 
@@ -46,7 +46,9 @@ Acte seguit, instalem la eïna nmap, en el meu cas ja la tenia instalada. Per a 
 
 ![image](https://user-images.githubusercontent.com/91249713/173060796-1362a271-7595-4758-90c5-51df9544b28e.png)
 
-- 
+- Per a crear una taula introduirem la sentència CREATE DATABASE tasks; i amb el show databases podem veure que ara si que hem creat una nosaltres i ja ens apareix.
+
+![image](https://user-images.githubusercontent.com/91249713/173062218-99542698-c459-466d-9b10-b9f6b2a8647b.png)
 
 
 
