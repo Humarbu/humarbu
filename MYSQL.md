@@ -69,6 +69,23 @@ Executant la comanda sudo apt-get install mysql-server instalarem el servidor
 
 - Introduïnt al terminal /usr/bin/mysql-workbench obrirem aquesta.
 
+![image](https://user-images.githubusercontent.com/91249713/173123769-e2870692-7e02-44a0-8c06-81cf2851ada2.png)
+- Una vegada oberta aquesta aplicació podrem veure una connexió, si obrim aquesta ens donara error, per això, anem a aquesta connexió, farem clic dret i anem a editar-la.
+
+![image](https://user-images.githubusercontent.com/91249713/173123937-25c691a2-6444-4e77-89ba-ec4c2cc3e362.png)
+
+- Tornarem al terminal per a agafar l'usuari i la clau d'accés amb les que hem accedit anteriorment al mysql al terminal.
+![image](https://user-images.githubusercontent.com/91249713/173124041-9152f565-0d7a-4532-adf8-af06e8277058.png)
+- Seguidament, tornarem al mysql WorkBench i canviarem l'usuari i la constrasenya per a del usuari de la captura anterior.
+
+![image](https://user-images.githubusercontent.com/91249713/173124154-e305f069-74c4-48a1-8c81-2d5de3e4dcdf.png)
+
+- Com podem veure alhora de verificar la connexió ens surt que ha funcionat correctament.
+
+![image](https://user-images.githubusercontent.com/91249713/173124345-110c79e1-f154-4468-9a21-b7b514d51f44.png)
+- Accedim a la connexió fent doble clic.
+
+
 
 
 
