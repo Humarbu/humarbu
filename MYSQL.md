@@ -59,9 +59,15 @@ Executant la comanda sudo apt-get install mysql-server instalarem el servidor
 
 ![image](https://user-images.githubusercontent.com/91249713/173078262-371bc293-d7ec-40c2-bf40-637462ac50f9.png)
 
+- Instalem aquests arxius però com és veu ens donen error, a continuació veurem com corregir-ho:
 
+![image](https://user-images.githubusercontent.com/91249713/173119861-e69e1e53-89f5-4833-959b-f874a80a6cb1.png)
 
+- Amb la comanda sudo apt --fix-broken install ho solucionarem i una vegada executada ja podrem obrir el mysql WorkBench.
 
+![image](https://user-images.githubusercontent.com/91249713/173120004-786bf4f8-f465-4d85-aa72-c79767849cf2.png)
+
+- Introduïnt al terminal /usr/bin/mysql-workbench obrirem aquesta.
 
 
 
