@@ -50,9 +50,14 @@ Executant la comanda sudo apt-get install mysql-server instalarem el servidor
 
 ![image](https://user-images.githubusercontent.com/91249713/173062218-99542698-c459-466d-9b10-b9f6b2a8647b.png)
 
+- Introduint use tasks; entrarem dins d'aquesta taula que hem creat i una vegada dins crearem les taules. 
 
 
+![image](https://user-images.githubusercontent.com/91249713/173078009-e1252428-8f18-468a-8d84-6e063739448e.png)
 
+-Instalem el mysql-workbench desde la pàgina web de mysql community downloads i haurem d'instalar-nos els dos ultims paquets que és mostren a la captura.
+
+![image](https://user-images.githubusercontent.com/91249713/173078262-371bc293-d7ec-40c2-bf40-637462ac50f9.png)
 
 
 
