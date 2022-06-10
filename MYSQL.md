@@ -19,12 +19,34 @@ Executant la comanda sudo apt-get install mysql-server instalarem el servidor
 
 ![image](https://user-images.githubusercontent.com/91249713/173056629-0593cd0d-e6ce-47ef-8430-1e4204a2d6e1.png)
 
-Acte seguit, instalem la eïna nmap, en el meu cas ja la tenia instalada. Per a instalar aquesta eïna executarem la comanda sudo apt-get install nmap, posteriorment farem un escaneig dels port que es troben oberts al localhost.
+Acte seguit, instalem la eïna nmap, en el meu cas ja la tenia instalada. Per a instalar aquesta eïna executarem la comanda sudo apt-get install nmap, posteriorment farem un escaneig dels port que es troben oberts al localhost i com veem el port 3306 que es el del mysql es troba obert.
+
+![image](https://user-images.githubusercontent.com/91249713/173059253-6a9ceb88-78bf-49fa-917c-20b2fc8e28dc.png)
+
+- Executant la comanda dpkg -L mysql-server-8.0 | grep etc podem veure els fitxers de configuració del paquet mysql-server-8.0.
 
 
+![image](https://user-images.githubusercontent.com/91249713/173059452-3fac9545-95c8-45b1-afd5-cbd8c52e008d.png)
 
+- Executant dpkg -L mysql-server-8.0 | grep var podem veure les bases de dades.
 
+![image](https://user-images.githubusercontent.com/91249713/173059807-3c92d9b1-11c0-49f8-87c1-4e6624c9d7fc.png)
 
+-Consultant aquest fitxer podrem veure un usuari que crea debian per defecte i sirà amb el que accedirem a mysql.
+
+![image](https://user-images.githubusercontent.com/91249713/173060081-31bb4ef3-c8c1-433e-85bb-5a18e632cda7.png)
+- Com podem veure hem accedit correctament a mysql amb aquest usuari.
+
+![image](https://user-images.githubusercontent.com/91249713/173060410-b3cecfec-6543-4b6c-96f6-f881ac518419.png)
+
+- Dins del mysql executant aquesta comanda podrem veure les base de dades creades, aquestes que es mostren a la captura son les pripies del sistema, nosaltres encara no hem creat cap.
+
+![image](https://user-images.githubusercontent.com/91249713/173060585-5b0573a9-903f-4190-b491-7f549fb4afb7.png)
+- Amb auqesta altra comanda podrem veure els privilegis.
+
+![image](https://user-images.githubusercontent.com/91249713/173060796-1362a271-7595-4758-90c5-51df9544b28e.png)
+
+- 
 
 
 
