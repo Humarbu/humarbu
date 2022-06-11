@@ -85,6 +85,8 @@ Executant la comanda sudo apt-get install mysql-server instalarem el servidor
 ![image](https://user-images.githubusercontent.com/91249713/173124345-110c79e1-f154-4468-9a21-b7b514d51f44.png)
 - Accedim a la connexió fent doble clic.
 
+![image](https://user-images.githubusercontent.com/91249713/173203721-1e0bf351-bbd7-4a80-be67-268b01543e5b.png)
+- Fet això al WorkBench ara passarem a instal·lar el PHPStorm, i desde dins d'aquesta accedirem a la base de dades que tenim.
 
 
 
