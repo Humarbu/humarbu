@@ -129,6 +129,28 @@ Executant la comanda sudo apt-get install mysql-server instalarem el servidor
 - Accedirem a la carpeta que hem creat i amb la comanda joe ~/.zshrc obrim el fitxer i afegirem la ruta on es troba la carpeta phpstorm.
 
 
+![image](https://user-images.githubusercontent.com/91249713/173429284-1d06e763-6d15-4e24-988b-4c804c3b6297.png)
+- Introduïm l'ordre phpstorm per a executar aquest, posteriorment entrarem dins de la carpeta php_pdo i executarem la comanda phpstorm .
+
+![image](https://user-images.githubusercontent.com/91249713/173429580-0b426700-8f77-4bd6-b0dd-b5d25c07db20.png)
+- Automàticament al entrar al phpstorm podrem veure una finestra alb el PHP_PDO i dins d'aquest crearem un fitxer anomenat index.php.
+
+![image](https://user-images.githubusercontent.com/91249713/173429978-79803880-3538-4d2d-8ea1-3082ecf9f6d0.png)
+- Dins d'aquest fitxer index.php introduirem el codi que es mostra a la captura.
+
+![image](https://user-images.githubusercontent.com/91249713/173430338-d7a8ea61-7d4a-4630-827b-63ee431e79fe.png)
+- Desde el terminal també podem comprovar el resultat, introduim la comanda php index.php situats dins de la carpeta PHP_PDO i ens retornara el contingut d'aquest fitxer.
+
+![image](https://user-images.githubusercontent.com/91249713/173430733-06467f60-af2d-46bc-b545-d64ff0bdd960.png)
+- Accedint al localhost també podrem veure el continugt d'aquest fitxer.
+
+![image](https://user-images.githubusercontent.com/91249713/173433327-31287f4b-f6d0-4eb5-8d2b-b3901bb0244b.png)
+- Finalment generarem aquest codi al PHP_PDO.
+![image](https://user-images.githubusercontent.com/91249713/173433992-1c8c11b1-8591-4127-a67b-6557f535b187.png)
+- Finalment generem el fitxer task.php i l'introduim aquest codi que es mostra captura.
+
+![image](https://user-images.githubusercontent.com/91249713/173434379-7b54f681-a627-4ff2-a4ca-02b82af32ff5.png)
+- Executem la comanda php index.php i ens retornara el codi que es mostra a la captura.
 
 
 
