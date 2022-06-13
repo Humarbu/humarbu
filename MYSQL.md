@@ -88,6 +88,46 @@ Executant la comanda sudo apt-get install mysql-server instalarem el servidor
 ![image](https://user-images.githubusercontent.com/91249713/173203721-1e0bf351-bbd7-4a80-be67-268b01543e5b.png)
 - Fet això al WorkBench ara passarem a instal·lar el PHPStorm, i desde dins d'aquesta accedirem a la base de dades que tenim.
 
+![image](https://user-images.githubusercontent.com/91249713/173420763-7f069822-4cba-4c16-9e83-bc19d10ae18f.png)
+- Editem la connexió i introduïm les credencials del usuari que utilitzem.
+
+![image](https://user-images.githubusercontent.com/91249713/173420927-dee574b1-c137-44ce-8a1f-c19859dae274.png)
+- Com podem apreciar a la captura no tenim els drivers instalats per a MySQL, haurem d'instalar-los o bé clicant el boto de Download missing driver files o executant la comanda apt-get install php7.4-mysql.
+![image](https://user-images.githubusercontent.com/91249713/173421203-50d9a01d-7139-4c76-b37f-45c164eb4a31.png)
+![image](https://user-images.githubusercontent.com/91249713/173421548-d22359f9-5d20-41c9-9fe0-d66ef4bc84eb.png)
+- Ara farem el Test Connection i comprovarem si funciona correctament, i com podem veure ha sortit satisfactoriament la prova.
+
+![image](https://user-images.githubusercontent.com/91249713/173421733-84940dfa-3545-4dc0-9a70-8c501e21e157.png)
+- A la base de dades també haurem d'introduïr tasks que és la que hem creat.
+![image](https://user-images.githubusercontent.com/91249713/173421917-495e0af9-5aab-41e2-ab83-3fdc95db8f68.png)
+- Com es veu ja hem introduit la base de dades i ens apareix amb tota la informació que contè.
+
+![image](https://user-images.githubusercontent.com/91249713/173422086-97af7b88-d6a2-430b-8d9e-0b189ffb8d9a.png)
+- Afegim la primera tasca clicant a Add Row  i una vegada hem assignat aquesta fem clic a la flexa verda que és el botó de submit.
+
+![image](https://user-images.githubusercontent.com/91249713/173423107-bc457b79-778f-4bfc-80d7-3914d664f561.png)
+- Anem al WorkBench i clicant al botó seleccionat a al captura ens apareix la tasca assignada desde el phpstorm.
+
+![image](https://user-images.githubusercontent.com/91249713/173424226-d7183fe6-a70f-4794-af2e-2996b2717116.png)
+
+- Desde el mysql de la linia de comandes també podem comprovar-ho amb la comanda SELECT * FROM tasks i ens apareixera el resultat.
+
+![image](https://user-images.githubusercontent.com/91249713/173425235-823d7108-bd21-4eec-b146-74d1ccb94940.png)
+- Accedim a la carpeta codi i dins del nostre directori personal creem una carpeta anomenada PHP_PDO i accedim a aquesta.
+
+![image](https://user-images.githubusercontent.com/91249713/173425824-3fb7d95e-1c28-4f26-a1b0-5660edf48c66.png)
+- Seguidament, accedirem a la configuració del toolbox i seleccionarem la opció de Generate shell scripts i posteriorment anirem a change.
+![image](https://user-images.githubusercontent.com/91249713/173425979-cbef0551-1c46-4d56-b73d-471f9edf5d93.png)
+- Una vegada cliquem a change s'obrirà aquesta finestra i crearem una carpeta que anomenarem phpstorm.
+
+![image](https://user-images.githubusercontent.com/91249713/173426224-14879d95-764b-470e-b533-6f5e3f7b4992.png)
+- Una vegada creada, la seleccionem i seguidament apliquem els canvis amb el botó Apply.
+
+![image](https://user-images.githubusercontent.com/91249713/173426571-0063f483-ce8c-4ceb-9452-b95b774c61d8.png)
+
+![image](https://user-images.githubusercontent.com/91249713/173426825-48969cf8-785e-4d52-a2b2-895ab5b76398.png)
+- Accedirem a la carpeta que hem creat i amb la comanda joe ~/.zshrc obrim el fitxer i afegirem la ruta on es troba la carpeta phpstorm.
+
 
 
 
